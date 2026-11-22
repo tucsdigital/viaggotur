@@ -513,14 +513,14 @@ query(collection(db, 'categorias'),
 
 1. **Conectar repositorio:**
    - Ve a [Vercel Dashboard](https://vercel.com/dashboard)
-   - Importa tu repositorio de GitHub
+   - Importa tu repositorio de GitHub como un único proyecto Next.js, con el directorio raíz en `.`
 
 2. **Configurar variables de entorno:**
-   - Agrega todas las variables de `.env.local`
-   - Especialmente `BLOB_READ_WRITE_TOKEN`
+   - Configura las variables de Firebase, Cloudflare R2, Stripe y Resend que usa el sitio
+   - No subas `.env.local` al repositorio
 
 3. **Deploy:**
-   - Vercel detecta Next.js automáticamente
+   - Verifica la compilación con `npm run build` antes de subir los cambios
    - Deploy en cada push a `main`
 
 4. **Configurar dominio:**
