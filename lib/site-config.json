@@ -1,0 +1,222 @@
+{
+  "branding": {
+    "siteName": "Viaggio Tur",
+    "siteDescription": "Agencia de Turismo EVT 19155. Más que un viaje, una experiencia que se comparte.",
+    "siteUrlDefault": "https://viaggiotur.vercel.app",
+    "logo": {
+      "imagePath": "/logo.png",
+      "imageUrl": "",
+      "titleText": "Viaggio Tur",
+      "altTextTemplate": "{{siteName}} Logo"
+    },
+    "palette": {
+      "primary": "#009246",
+      "secondary": "#53AB29",
+      "success": "#53AB29",
+      "successStrong": "#007A3A",
+      "dark": "#1A1A1A",
+      "cream": "#F5F5F5"
+    }
+  },
+  "company": {
+    "adminEmailDefault": "admin@elsherpa.com",
+    "whatsappMessageDefault": "Hola! Quiero consultar por: ",
+    "contact": {
+      "direccion": "Chacabuco 1627, B7000 Tandil, Provincia de Buenos Aires",
+      "horario": "Lunes a Viernes de 8:30 a 12:30 y de 15:00 a 18:30 · Sábados de 8:30 a 12:30",
+      "email": "reservasviaggiotur@gmail.com",
+      "telefono": "2494670101",
+      "whatsappNumber": "5492494653333",
+      "whatsappInternacionalNumber": "5492494655979",
+      "mapUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3173.1581565517668!2d-59.1464479!3d-37.3150812!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95911f986eaa5b9d%3A0x37f614c32e23afbc!2sServiBus%20viajes%20y%20turismo--%20Viaggio%20Tur%20agencia%20de%20Viajes%20y%20turismo!5e0!3m2!1ses!2sar!4v1775746041617!5m2!1ses!2sar"
+    },
+    "social": {
+      "facebook": "https://web.facebook.com/ServibusTandil/",
+      "instagram": "https://www.instagram.com/servibus.tandil/",
+      "instagramHandle": "@servibus.tandil",
+      "threads": "",
+      "tiktok": "",
+      "whatsappChannel": "https://whatsapp.com/channel/0029Vb7d9io29755bhcrFw0U",
+      "email": "mailto:reservasviaggiotur@gmail.com"
+    },
+    "legal": {
+      "razonSocial": "TRANSPORTES GENRE.AR SRL",
+      "cuit": "30-71585811-4",
+      "legajoRnav": "19155",
+      "servibus": "SERVIBUS",
+      "cnrt": "CNRT 19155 - NACION",
+      "transporteProvinciaBuenosAires": "TRANSPORTE PROVINCIA DE BUENOS AIRES SERVICIOS ESPECIALES Ndeg EA1445",
+      "evt": "VIAGGIO TUR EVT 19155"
+    },
+    "developerCredits": {
+      "name": "Tucs Digital",
+      "url": "https://instagram.com/tucsdigital"
+    }
+  },
+  "features": {
+    "showContactMap": true
+  },
+  "seo": {
+    "locale": "es_AR",
+    "titleDefaultTemplate": "{{siteName}} - La verdad de viajar",
+    "titleTemplate": "%s | {{siteName}}",
+    "openGraphImagePath": "/logo-lado-v.png",
+    "keywords": [
+      "viajes",
+      "turismo",
+      "experiencias",
+      "aventuras",
+      "viajes personalizados",
+      "viajes grupales",
+      "destinos"
+    ]
+  },
+  "content": {
+    "homeHero": {
+      "badge": "Descubrí el mundo",
+      "titlePrefix": "Encontrá tu",
+      "titleAccent": "próximo viaje",
+      "subtitleTemplate": "Viví los mejores destinos y experiencias con {{siteName}}. Tu aventura comienza acá."
+    },
+    "packagesSection": {
+      "badge": "Paquetes",
+      "title": "Paquetes y viajes",
+      "subtitleTemplate": "Experiencias diseñadas por {{siteName}} para que vivas cada destino con confianza."
+    },
+    "services": {
+      "badge": "Servicios",
+      "titlePrefix": "Nuestros",
+      "titleAccent": "Servicios",
+      "subtitle": "Te acompañamos en cada etapa de tu viaje con soluciones pensadas para vos.",
+      "items": [
+        {
+          "icon": "Users",
+          "title": "Salidas grupales en bus",
+          "desc": "Organizamos viajes grupales a distintos destinos del país, brindando comodidad, coordinación y acompañamiento durante toda la experiencia."
+        },
+        {
+          "icon": "Globe",
+          "title": "Viajes nacionales e internacionales",
+          "desc": "Ofrecemos paquetes turísticos dentro de Argentina y también al exterior, adaptados a diferentes gustos y presupuestos."
+        },
+        {
+          "icon": "Plane",
+          "title": "Paquetes personalizados",
+          "desc": "Diseñamos viajes a medida según las necesidades de cada cliente, incluyendo opciones con aéreo, hotelería y excursiones."
+        },
+        {
+          "icon": "Headphones",
+          "title": "Transporte para instituciones",
+          "desc": "Brindamos servicio de traslado para escuelas, clubes, empresas y grupos, garantizando seguridad, puntualidad y confort."
+        }
+      ]
+    },
+    "values": {
+      "badge": "Beneficios",
+      "title": "¿Por qué elegirnos?",
+      "subtitle": "Creemos en una forma de viajar donde cada detalle cuenta.",
+      "items": [
+        {
+          "icon": "Award",
+          "number": "01",
+          "title": "Experiencia y trayectoria",
+          "desc": "Más de 10 años organizando viajes y trasladando pasajeros nos respaldan."
+        },
+        {
+          "icon": "CheckCircle",
+          "number": "02",
+          "title": "Atención personalizada",
+          "desc": "Acompañamos a cada pasajero antes, durante y después del viaje."
+        },
+        {
+          "icon": "Sparkles",
+          "number": "03",
+          "title": "Viajes grupales que conectan",
+          "desc": "Promovemos experiencias donde el viaje también se disfruta en compañía."
+        },
+        {
+          "icon": "Shield",
+          "number": "04",
+          "title": "Variedad de destinos",
+          "desc": "Salidas a todo el país y países limítrofes."
+        },
+        {
+          "icon": "Heart",
+          "number": "05",
+          "title": "Seguridad y confianza",
+          "desc": "Transporte habilitado y planificación responsable."
+        },
+        {
+          "icon": "Smile",
+          "number": "06",
+          "title": "Pasión por viajar",
+          "desc": "Creamos experiencias memorables en cada viaje."
+        }
+      ]
+    },
+    "about": {
+      "badge": "Sobre Nosotros",
+      "titlePrefix": "Nuestra",
+      "titleAccent": "historia",
+      "image": {
+        "src": "/images/historia.png",
+        "altTemplate": "Equipo de {{siteName}}"
+      },
+      "paragraphs": [
+        [
+          {
+            "text": "Somos una empresa familiar de la ciudad de Tandil con más de 10 años de experiencia en transporte de pasajeros y organización de salidas grupales."
+          }
+        ],
+        [
+          {
+            "text": "Nuestro camino comenzó con Servibus, empresa dedicada al transporte, y con el tiempo incorporamos nuestra agencia de turismo "
+          },
+          {
+            "token": "siteName",
+            "strong": true
+          },
+          {
+            "text": ", ampliando así los servicios para nuestros viajeros."
+          }
+        ],
+        [
+          {
+            "text": "Hoy, desde "
+          },
+          {
+            "token": "siteName",
+            "strong": true
+          },
+          {
+            "text": " – Agencia de Turismo EVT 19155, diseñamos paquetes turísticos en bus a distintos destinos de todo el país y países limítrofes."
+          }
+        ],
+        [
+          {
+            "text": "También ofrecemos paquetes con aéreo, viajes internacionales y cruceros, brindando múltiples opciones para que cada persona pueda concretar el viaje que sueña."
+          }
+        ]
+      ]
+    },
+    "contactBlock": {
+      "badge": "Hablemos",
+      "titlePrefix": "Ponete en",
+      "titleAccent": "contacto",
+      "subtitle": "¿Tenés alguna consulta o querés armar tu viaje ideal? Envianos un mensaje y te asesoramos personalmente."
+    },
+    "contactForm": {
+      "title": "Envianos tu consulta",
+      "subtitle": "Completá el formulario y te contactaremos a la brevedad",
+      "whatsappCta": "Abrir WhatsApp",
+      "image": {
+        "src": "/images/contacto.png",
+        "altTemplate": "{{siteName}}"
+      }
+    },
+    "footer": {
+      "taglineTemplate": "{{siteDescription}}",
+      "copyrightTemplate": "© {{year}} {{logoTitleText}}. Todos los derechos reservados."
+    }
+  }
+}
